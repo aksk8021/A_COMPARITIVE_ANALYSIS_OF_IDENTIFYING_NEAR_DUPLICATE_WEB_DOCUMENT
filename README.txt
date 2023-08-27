@@ -1,48 +1,31 @@
-I am Ankit Kumar Singh, here i created my finalised project of near duplicate detetction with the help of research papers. 
-This was a group project done with the help of my brother Aditya Singh.
-The link to my brothers github profile is:
-https://github.com/863aditya
+I am Ankit Kumar Singh. I have finalized a project on near-duplicate detection with the assistance of research papers. This was a collaborative project completed with the help of my brother, Aditya Singh.
 
-Testing has been done on a very ideal datasets in which we have parsed only the paragraph tags and that were created specifically for testing purpose only , if you wish to test on some other data some minor adjustments are required.
+For reference, my brother's GitHub profile is available at: https://github.com/863aditya
 
-I intend to use this analysis and assessment for research purpose and future enhancement  in my project.
+Testing was conducted on ideal datasets, where only the paragraph tags were parsed. These datasets were specifically created for testing purposes. If you wish to test the project on different data, minor adjustments will be necessary.
 
-While doing this project all the datasets were in the same directory as of the python files, at the time of uploading, I have separated into different files for better convenience.
+The purpose of this analysis and assessment is for research purposes and future enhancements to the project.
 
+During the project, all datasets were located in the same directory as the Python files. However, for uploading, I have separated them into different files for better convenience.
 
-If you wish to run this on your machine steps are summarised below:
-1) Download this repository and extract in a new folder.
-2)While executing this project, all the datasets should be in the respective directories itself.
-3)create two text files with name res.txt and res1.txt for stemmed and unstemmed analysis.
-4)From the folder Localhost run the python script app.py on powershell or cmd prompt.(since all the html parsing is done on the localhost server itself.)
-5)Then run the python files from a powershell or command prompt.
+If you'd like to run this project on your machine, follow the summarized steps below:
 
-Note: To run python scripts from powershell: open the file, press Shift+Right_click_on_mouse, then select open powershell window here,then type: 
-python FILENAME.py
-If the python files requires an input you should type that in the powershell itself in the next line, eg u100.xls as we used.
+Download the repository and extract it into a new folder.
+Ensure that all datasets are in their respective directories.
+Create two text files named "res.txt" and "res1.txt" for stemmed and unstemmed analysis.
+From the "Localhost" folder, execute the "app.py" Python script using PowerShell or Command Prompt. (HTML parsing is done on the localhost server.)
+Next, run the required Python files from PowerShell or Command Prompt. If any input is required, enter it in the PowerShell window, such as "u100.xls" as used in our project.
+Note: To run Python scripts from PowerShell, open the file, press Shift right-click the mouse, then select "Open PowerShell window here." Type python FILENAME.py. If the script requires input, provide it in the PowerShell window in the next line.
 
-If you point out any funny name used for any jupyter files or python file it was just used for testing purposes and we may have missed out on some places.
+If you notice any unconventional names used for Jupyter or Python files, these were employed solely for testing purposes and might be present in some places.
 
-NDD_3 Credits:
-A Near-Duplicate Detection Algorithm to Facilitate Document Clustering published in November 2014
-DOI: 10.5121/ijdkp.2014.4604
-for further information on this research paper please visit:
-https://www.researchgate.net/publication/276272813
+Credits for "NDD_3":
 
-NDD_1 Credits:
-A Novel and Efficient Approach For Near Duplicate Page Detection in Web Crawling published in April 2009
-DOI:10.1109/IADCC.2009.4809238
-for further information on this research paper please visit:
-https://www.researchgate.net/publication/224398723_A_Novel_and_Efficient_Approach_For_Near_Duplicate_Page_Detection_in_Web_Crawling
+A Near-Duplicate Detection Algorithm to Facilitate Document Clustering, published in November 2014. DOI: 10.5121/ijdkp.2014.4604. For more information, visit: https://www.researchgate.net/publication/276272813
+Credits for "NDD_1":
 
+A Novel and Efficient Approach For Near Duplicate Page Detection in Web Crawling, published in April 2009. DOI: 10.1109/IADCC.2009.4809238. For more information, visit: https://www.researchgate.net/publication/224398723_A_Novel_and_Efficient_Approach_For_Near_Duplicate_Page_Detection_in_Web_Crawling
+All content used in this code is for educational purposes only. There is no intention to violate any copyrights, as all rights are owned by the respective authors.
 
-All the content used in this code is for educational purpose only
-I dont intend to violate any copyrights
-all the rights are ownwed by the respective authors
-
-
-Copyright Disclaimer under section 107 of the Copyright Act 1976, 
-allowance is made for “fair use” for purposes such as criticism, comment, 
-news reporting, teaching, scholarship, education and research.
-
-Fair use is a use permitted by copyright statute that might otherwise be infringing. 
+Copyright Disclaimer under Section 107 of the Copyright Act 1976:
+Fair use is permitted for purposes such as criticism, comment, news reporting, teaching, scholarship, education, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing.
